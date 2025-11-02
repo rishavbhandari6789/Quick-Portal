@@ -1,92 +1,92 @@
 [
   {
-    "question": "What is the largest planet in our solar system?",
+    "question": "Which planet is known as the Red Planet?",
     "answerOptions": [
-      {"text": "Saturn", "isCorrect": false},
-      {"text": "Mars", "isCorrect": false},
-      {"text": "Earth", "isCorrect": false},
-      {"text": "Jupiter", "isCorrect": true}
+      {"text": "Venus", "isCorrect": false},
+      {"text": "Mars", "isCorrect": true},
+      {"text": "Mercury", "isCorrect": false},
+      {"text": "Jupiter", "isCorrect": false}
     ]
   },
   {
-    "question": "What is the tallest mountain in the world?",
+    "question": "Which mountain is the tallest above sea level?",
     "answerOptions": [
       {"text": "Mount Everest", "isCorrect": true},
       {"text": "K2", "isCorrect": false},
-      {"text": "Kangchenjunga", "isCorrect": false},
-      {"text": "Lhotse", "isCorrect": false}
+      {"text": "Makalu", "isCorrect": false},
+      {"text": "Cho Oyu", "isCorrect": false}
     ]
   },
   {
-    "question": "Which country is home to the Great Wall of China?",
+    "question": "Which country has the largest population in the world?",
     "answerOptions": [
+      {"text": "India", "isCorrect": false},
+      {"text": "United States", "isCorrect": false},
       {"text": "China", "isCorrect": true},
-      {"text": "Japan", "isCorrect": false},
-      {"text": "Korea", "isCorrect": false},
-      {"text": "India", "isCorrect": false}
+      {"text": "Indonesia", "isCorrect": false}
     ]
   },
   {
-    "question": "What is the capital of France?",
+    "question": "What is the capital city of Australia?",
     "answerOptions": [
-      {"text": "London", "isCorrect": false},
-      {"text": "Berlin", "isCorrect": false},
-      {"text": "Paris", "isCorrect": true},
-      {"text": "Rome", "isCorrect": false}
+      {"text": "Sydney", "isCorrect": false},
+      {"text": "Melbourne", "isCorrect": false},
+      {"text": "Canberra", "isCorrect": true},
+      {"text": "Brisbane", "isCorrect": false}
     ]
   },
   {
-    "question": "What is the chemical formula for water?",
+    "question": "Which element has the chemical symbol 'O'?",
     "answerOptions": [
-      {"text": "H2O", "isCorrect": true},
-      {"text": "CO2", "isCorrect": false},
-      {"text": "NaCl", "isCorrect": false},
-      {"text": "NH3", "isCorrect": false}
+      {"text": "Oxygen", "isCorrect": true},
+      {"text": "Gold", "isCorrect": false},
+      {"text": "Silver", "isCorrect": false},
+      {"text": "Iron", "isCorrect": false}
     ]
   },
   {
-    "question": "What is the largest ocean on Earth?",
+    "question": "Which ocean is the deepest in the world?",
     "answerOptions": [
       {"text": "Atlantic Ocean", "isCorrect": false},
-      {"text": "Pacific Ocean", "isCorrect": true},
       {"text": "Indian Ocean", "isCorrect": false},
-      {"text": "Arctic Ocean", "isCorrect": false}
+      {"text": "Pacific Ocean", "isCorrect": true},
+      {"text": "Southern Ocean", "isCorrect": false}
     ]
   },
   {
-    "question": "What is the most popular social media platform?",
+    "question": "Which social media platform has the most monthly active users as of 2025?",
     "answerOptions": [
-      {"text": "Instagram", "isCorrect": true},
-      {"text": "Facebook", "isCorrect": false},
-      {"text": "Twitter", "isCorrect": false},
-      {"text": "YouTube", "isCorrect": false}
+      {"text": "Facebook", "isCorrect": true},
+      {"text": "Instagram", "isCorrect": false},
+      {"text": "TikTok", "isCorrect": false},
+      {"text": "Twitter", "isCorrect": false}
     ]
   },
   {
-    "question": "What is the currency of Japan?",
+    "question": "What is the official currency of the United Kingdom?",
     "answerOptions": [
-      {"text": "Euro", "isCorrect": false},
       {"text": "US Dollar", "isCorrect": false},
-      {"text": "Japanese Yen", "isCorrect": true},
-      {"text": "Chinese Yuan", "isCorrect": false}
+      {"text": "Euro", "isCorrect": false},
+      {"text": "Pound Sterling", "isCorrect": true},
+      {"text": "Yen", "isCorrect": false}
     ]
   },
   {
-    "question": "What is the world's largest search engine?",
+    "question": "Which search engine processes the most queries globally?",
     "answerOptions": [
       {"text": "Google", "isCorrect": true},
       {"text": "Bing", "isCorrect": false},
-      {"text": "Yahoo", "isCorrect": false},
-      {"text": "DuckDuckGo", "isCorrect": false}
+      {"text": "DuckDuckGo", "isCorrect": false},
+      {"text": "Yahoo", "isCorrect": false}
     ]
   },
   {
-    "question": "Who painted the Mona Lisa?",
+    "question": "Who is the artist behind the painting 'Starry Night'?",
     "answerOptions": [
-      {"text": "Michelangelo", "isCorrect": false},
-      {"text": "Leonardo da Vinci", "isCorrect": true},
-      {"text": "Sandro Botticelli", "isCorrect": false},
-      {"text": "Raphael", "isCorrect": false}
+      {"text": "Vincent van Gogh", "isCorrect": true},
+      {"text": "Pablo Picasso", "isCorrect": false},
+      {"text": "Claude Monet", "isCorrect": false},
+      {"text": "Leonardo da Vinci", "isCorrect": false}
     ]
   }
 ]
