@@ -58,5 +58,8 @@ It also serves as a demonstration of best practices in **React component archite
 
 ## YouTube Channel
 
-https://www.youtube.com/@mnccracker5421
+MncCracker: https://www.youtube.com/@mnccracker5421
+
+## YouTube Video
+Video: https://youtu.be/XrJkpXHg31c
 
